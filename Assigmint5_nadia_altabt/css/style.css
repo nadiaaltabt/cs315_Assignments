@@ -1,0 +1,120 @@
+
+*{
+    margin:0px;
+    padding:0px;
+}
+body {
+margin: 10px; padding: 0;
+}
+
+
+/*Navbar image styling*/
+#h img{
+    display:block;
+    width: 100px;
+    height:80px;
+    margin-bottom: 0px;
+    background-size: contain ;
+    background-blend-mode: normal;
+    
+}
+
+/*Navbar Functionality*/
+#navbar{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(182, 64, 218);
+    background-size: contain ;
+    height: 1.5cm;
+    width: 100%;
+    font-family: 'Ubuntu Mono', monospace;
+    margin-top:0px;
+   border: 2px solid rgb(53, 5, 68);
+   border-radius:15px;
+   box-shadow:25px;
+}
+/*Navbar content functionality*/
+.navcontent{
+    display: flex;
+    justify-content: center;
+}
+
+
+/*Navbar content styling*/
+ ul  li{
+    list-style: none;
+    margin: 15px;
+    border-radius: 20px;
+}
+ ul  li   a{
+    padding: 1px;
+    color: white;
+    text-decoration: none;
+    border-radius:10px;
+}
+  a:hover{
+    background-color: rgb(250, 78, 178);
+    border-radius: 10px;
+}
+ footer {
+
+	width: 100%;
+	height: 50px;
+	background-color: rgb(182, 64, 218);
+	color:white;
+	font-size: 18px;
+	padding: 10px;
+	box-sizing: border-box;
+    border: 2px solid rgb(53, 5, 68);
+    border-radius:15px;
+    padding: 1px;
+   
+}
+body{
+    background-color: white;
+}
+
+
+.sin_box{
+    background: rgb(182, 64, 218);
+    border: 300px;
+    border-radius:30px; 
+    border: 2px solid rgb(182, 64, 218);
+    margin: 90px;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    top: 15px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 15px;
+  
+}
+div.x{
+    color: #e72e2e;
+}
+div.view{
+    background:  rgb(182, 64, 218);
+    border: 300px;
+    border-radius:30px; 
+    border: 2px solid rgb(182, 64, 218);
+    margin: 90px;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    top: 15px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 15px;
+
+    
+}
+*e{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+u{
+    background-color: white;
+}
+div.m{
+    color:white;
+}
